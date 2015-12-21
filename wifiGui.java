@@ -58,11 +58,7 @@ public class check extends JFrame implements ActionListener{
 		bf1.close();
 	}
 	   
-	  /* public check() throws IOException
-	   {
-	     checking();
-	     
-	   }*/
+
 	   public void setupGUI() throws IOException{
 		   getContentPane().setLayout(null);
 		   setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
